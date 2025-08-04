@@ -1,0 +1,1 @@
+[11-Sep-2024 10:06:01 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 803213312 bytes) in /home/sulvrbuj/teams.molah.sulvin.com/app/Http/Controllers/ItemsController.php on line 47
